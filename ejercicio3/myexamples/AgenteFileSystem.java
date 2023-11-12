@@ -12,6 +12,11 @@ import java.io.Serializable;
 
 public class AgenteFileSystem extends Agent {
 
+    private static final int SIZE = 512;
+
+    private boolean isOrigin;
+    private boolean finished;
+
     /* UBICACIONES A DONDE DEBE IR EL AGENTE 
     *       origin: La ubicacion desde donde empieza
     *       destiny: La ubicacion a donde debe leer o escribir     
@@ -35,6 +40,7 @@ public class AgenteFileSystem extends Agent {
     /* SALIDA */
 
     /* DATOS EFECTIVAMENTE LEIDOS O ESCRITOS */
+    private int readed;
     private int effective;
 
     /* DATOS QUE SE RECIBEN DEL READ O DATOS QUE SE DEBEN ESCRIBIR EN EL WRITE  */
@@ -49,6 +55,9 @@ public class AgenteFileSystem extends Agent {
             System.out.println("SE EJECUTO EL SETUP");
             if(args.length > 3 && args.length < 6){
                 origin = here();
+                isOrigin = true;
+                finished = false;
+                readed = 0;
                 destiny = new ContainerID((String) args[0], null);
                 operation = (String) args[1];
                 name = (String) args[2];
@@ -75,7 +84,7 @@ public class AgenteFileSystem extends Agent {
                 else if(operation.equals("write") && length > 0 && args.length == 4){
                     System.out.println("SE EJECUTO EL WRITE");
                     position = 0;
-                    read(true);
+                    read();
                     doMove(destiny);
                 }
                 else throw new Exception(
@@ -91,52 +100,74 @@ public class AgenteFileSystem extends Agent {
     }
 
     protected void afterMove() {
-       if(operation == "write"){
-        
-       }
+       isOrigin = (origin.getID().equals(here().getID()));
+
+        if(operation.equals("write"))
+                if(isOrigin)
+                    read();
+                else
+                    write();
+        else if (operation.equals("read")){};
+
+        if(!finished)
+            doMove(isOrigin ? destiny : origin);
+        else
+            System.out.println("TERMINO LA LECTURA/ESCRITURA...");
     }
 
-    private void read(boolean local) throws IOException{
+    private void write(){
+        try {
+            File file = new File((isOrigin ? "local/" : "fs/") + name);
+            FileOutputStream fos = new FileOutputStream(file, true);
+            
+            fos.write(data, 0, effective);
+            fos.close();
+
+            System.out.println("Se escribieron " + effective + " bytes en " + name);
+
+
+        } catch (IOException e) {
+            System.out.println(e.getMessage());
+        }
+    }
+
+    private void read(){
         try {
             /* LEO EL ARCHIVO, DEPENDIENDO EN DONDE ESTE */
-            System.out.println("INSTANCIANDO FILE");
-            File file = new File((local ? "local/" : "fs/") + name);
+
+            File file = new File((isOrigin ? "local/" : "fs/") + name);
             System.out.println("PATH: " + file.getAbsolutePath());
+            
             if(!file.exists())
                 throw new IOException("EL ARCHIVO NO EXISTE");
-            System.out.println("INSTANCIANDO FILEINPUTSTREAM");
+
             FileInputStream fis = new FileInputStream(file);
             
-            /* CALCULO, CUANTO FALTA PARA LEER, DEPENDIENDO DE LO QUE
-             SE HAYA PASADO O LA CANTIDAD DISPONIBLE QUE HAYA */
-            length = Math.min(length, fis.available());
+            fis.skip(position);
 
-            System.out.println("INSTANCIANDO DATA");
-            /* INSTANCIO LOS DATOS A LEER */
-            data = new byte[length];
-            
-            /* 
-            * LEO, HASTA NO TENER MAS BYTES PARA LEER 
-            *   -toRead: ES LO QUE FALTA POR LEER
-            *   -readed: ES LO QUE SE LEYO ACTUALMENTE
-            */
-            
-            System.out.println("LEYENDO EL ARCHIVO");
-            int toRead = length;
-            int readed = 0;
-            int pos = position;
-            while(toRead != 0){
-                readed = fis.read(data, pos, toRead);
-                pos += readed;
-                toRead -= readed;
+            /* CALCULO CUANTO DEBERIA LEER */
+            int nextToRead = Math.min(fis.available(), length);
+            nextToRead = Math.min(SIZE, nextToRead);
+
+            if (nextToRead == 0 ||  length == 0)
+                finished = true;
+            else {
+                System.out.println("INSTANCIANDO DATA");
+                /* INSTANCIO LOS DATOS A LEER */
+                data = new byte[nextToRead];
+                
+                
+                effective = fis.read(data);
+                position += effective;
+                length -= effective;
+
+                System.out.println("CERRANDO EL ARCHIVO");
+                fis.close();
+
+                System.out.println("SE LEYERON " + effective + " BYTES, DESDE " + name);
             }
-
-            System.out.println("CERRANDO EL ARCHIVO");
-            fis.close();
-
-            System.out.println("SE LEYERON " + length + " BYTES, DESDE " + name);
         } catch (IOException e){
-            throw new IOException("NO SE PUDO LEER EL ARCHIVO...");
+            System.out.println(e.getMessage());
         }
     }
 }

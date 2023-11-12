@@ -10,7 +10,7 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.io.Serializable;
 
-public class Ej3 extends Agent {
+public class ejer extends Agent {
 
 	Location origin;
 	String destiny;
