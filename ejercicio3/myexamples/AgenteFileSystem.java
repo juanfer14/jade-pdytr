@@ -91,7 +91,7 @@ public class AgenteFileSystem extends Agent {
                 *       SI LA OPERACION ES 'READ', DEBERIA RECIBIR
                 *          'CONTAINER, OPERACION, NOMBRE_ARCH, CANT_BYTES_LEER, POSICION'
                 */
-                if(checkMethod("read", 5))
+                if(checkMethod("read", 5, args.length)){
                     System.out.println("SE EJECUTO EL READ");
                     position = (int) args[4];
                     return false;
@@ -100,7 +100,7 @@ public class AgenteFileSystem extends Agent {
                 *       SI LA OPERACION ES 'WRITE', DEBERIA RECIBIR
                 *          'CONTAINER, OPERACION, NOMBRE_ARCH, CANT_BYTES_ESCRIBIR'
                 */
-                else if(checkMethod("write", 4)){
+                else if(checkMethod("write", 4, args.length)){
                     System.out.println("SE EJECUTO EL WRITE");
                     position = 0;
                     return true;
@@ -111,8 +111,8 @@ public class AgenteFileSystem extends Agent {
             } else throw new Exception("LA CANTIDAD DE ARGS. ES INVALIDA");
     }
 
-    private boolean checkMethod(String method, int numberArgs){
-        return operation.equals(method) && length > 0 && position >= 0 && args.length == numberArgs;
+    private boolean checkMethod(String method, int numberArgs, int argsLength){
+        return operation.equals(method) && length > 0 && position >= 0 && argsLength == numberArgs;
     }
 
     protected void afterMove() {
@@ -134,7 +134,7 @@ public class AgenteFileSystem extends Agent {
     private void finalMessage(){
             if(operation.equals("write")){
                 System.out.println("TERMINO LA ESCRITURA...");
-                System.out.println("LA CANTIDAD DE BYTES ESCRITOS FUERON" + readed);
+                System.out.println("LA CANTIDAD DE BYTES ESCRITOS FUERON " + readed);
             }
             else if(operation.equals("read")){
                 System.out.println("TERMINO LA LECTURA...");
@@ -218,6 +218,7 @@ public class AgenteFileSystem extends Agent {
                 effective = fis.read(data);
                 position += effective;
                 length -= effective;
+                readed += effective;
 
                 System.out.println("SE LEYERON " + effective + " BYTES, DESDE " + path);
                 System.out.println("CERRANDO EL ARCHIVO");
