@@ -1,0 +1,2429 @@
+SE EJECUTO EL SETUP
+LA OPERACION ES copy
+EL NOMBRE DEL ARCHIVO ES prac4.pdf
+LA CANTIDAD DE BYTES A LEER/ESCRIBIR ES 10000
+SE EJECUTO EL COPY
+SE TERMINO DE EJECUTAR EL COPY
+TERMINO EL SETUP
+La cantidad a leer sera 247567
+Archivo copiado exitosamente.
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 512 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 512 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
+INSTANCIANDO DATA
+SE LEYERON 271 BYTES, DESDE /pdytr/tp/jade-pdytr/ejercicio3 copy/backup/prac4.pdf
+CERRANDO EL ARCHIVO
+SE ESCRIBIERON 271 BYTES EN /pdytr/tp/jade-pdytr/ejercicio3 copy/local/prac4.pdf
+CERRANDO EL ARCHIVO
