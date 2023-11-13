@@ -93,7 +93,6 @@ public class AgenteFileSystem extends Agent {
                 */
                 if(checkMethod("read", 5, args.length)){
                     System.out.println("SE EJECUTO EL READ");
-                    System.out.println("Debug: Arg 4: "+ args[4]);
                     position = Integer.parseInt((String)args[4]);
                     System.out.println("SE TERMINO DE EJECUTAR EL READ");
                     return false;
@@ -129,10 +128,7 @@ public class AgenteFileSystem extends Agent {
                 if(isOrigin)
                     write();
                 else{
-                //Estoy en el File System y leo el archivo   
-                    System.out.println("En el File System");
                     read();
-
                 }
 
         
@@ -203,7 +199,6 @@ public class AgenteFileSystem extends Agent {
            
             /* SE HACE UN OFFSET DEL FIS, DE ACUERDO A LA POSICION ACTUAL */
             fis.skip(position);
-            System.out.println("Debug: la posicion es: " + position);
 
             /*  CALCULO CUANTO DEBERIA LEER, SEGUN:
                     -LO QUE TENGA DISPONIBLE EN EL ARCHIVO
@@ -220,7 +215,6 @@ public class AgenteFileSystem extends Agent {
              */
             if (nextToRead == 0 ||  length == 0){
                 finished = true;
-                System.out.println("Debug: termine de leer todos los bytes "+finished);
             } 
             else {
                 System.out.println("INSTANCIANDO DATA");
