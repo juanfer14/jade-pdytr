@@ -9,3 +9,5 @@ java -cp lib/jade.jar:classes jade.Boot -container -container-name c1 >> ./log/o
 # CONTENEDOR CON AGENTE PARA EL READ.
 java -cp lib/jade.jar:classes jade.Boot -container -container-name c0 -agents "mol:AgenteFileSystem(c1, read, prac4.pdf, 247567,0)" >> ./log/out.txt &
 
+wait
+pkill -9 -f "java"
