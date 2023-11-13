@@ -93,7 +93,9 @@ public class AgenteFileSystem extends Agent {
                 */
                 if(checkMethod("read", 5, args.length)){
                     System.out.println("SE EJECUTO EL READ");
-                    position = (int) args[4];
+                    System.out.println("Debug: Arg 4: "+ args[4]);
+                    position = Integer.parseInt((String)args[4]);
+                    System.out.println("SE TERMINO DE EJECUTAR EL READ");
                     return false;
                 }
                 /*  
@@ -107,7 +109,7 @@ public class AgenteFileSystem extends Agent {
                 }
                 else throw new Exception(
                     "LOS ARGS. SON container, operacion (read o write), " + 
-                    "nombre_archivo, posicion (solo en read), cant_bytes (mayor a 0)");
+                    "nombre_archivo, cant_bytes (mayor a 0), posicion (solo en read)");
             } else throw new Exception("LA CANTIDAD DE ARGS. ES INVALIDA");
     }
 
@@ -123,7 +125,19 @@ public class AgenteFileSystem extends Agent {
                     read();
                 else
                     write();
-        else if (operation.equals("read")){};
+        else if (operation.equals("read")){
+                if(isOrigin)
+                    write();
+                else{
+                //Estoy en el File System y leo el archivo   
+                    System.out.println("En el File System");
+                    read();
+
+                }
+
+        
+                    
+        };
 
         if(!finished)
             doMove(isOrigin ? destiny : origin);
@@ -189,6 +203,7 @@ public class AgenteFileSystem extends Agent {
            
             /* SE HACE UN OFFSET DEL FIS, DE ACUERDO A LA POSICION ACTUAL */
             fis.skip(position);
+            System.out.println("Debug: la posicion es: " + position);
 
             /*  CALCULO CUANTO DEBERIA LEER, SEGUN:
                     -LO QUE TENGA DISPONIBLE EN EL ARCHIVO
@@ -203,8 +218,10 @@ public class AgenteFileSystem extends Agent {
                     -NO HAY NADA MAS PARA LEER (SE LLEGO HASTA EL FINAL)
                     -NO HAY MAS DATOS PARA LEER, DE LOS SOLICITADOS
              */
-            if (nextToRead == 0 ||  length == 0)
+            if (nextToRead == 0 ||  length == 0){
                 finished = true;
+                System.out.println("Debug: termine de leer todos los bytes "+finished);
+            } 
             else {
                 System.out.println("INSTANCIANDO DATA");
                 data = new byte[nextToRead];
