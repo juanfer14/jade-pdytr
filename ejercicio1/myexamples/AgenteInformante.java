@@ -1,32 +1,34 @@
 import jade.core.*;
 import java.util.ArrayList;
 import java.lang.Runtime;
+import com.sun.management.OperatingSystemMXBean;
+import java.lang.management.ManagementFactory;
 
 public class AgenteInformante extends Agent
 {
+    private Location origin;
     private int N;
     private long startTime;
     private long endTime;
     private long finalTime;
-    private int actual;
+    private int index;
     
     private long totalFree;
     private ArrayList<String> containers;
     private ArrayList<String> names;
-    private ArrayList<Long> times;
+    private ArrayList<Double> cpu;
     private ArrayList<Long> free;
 
     // Ejecutado por unica vez en la creacin
     
     public void setup()
     {
-        Location origen = here();
-        System.out.println("EJECUTO EL SETUP: " + origen.getName());
+        origin = here();
+        System.out.println("EJECUTO EL SETUP EN: " + origin.getID());
 
         // Para migrar el agente
         try {
             this.checkArgsAndInitialize();
-            System.out.println("EL VALOR DE N ES: " + N);
             startTime = System.currentTimeMillis();
             
             this.migrate();
@@ -39,21 +41,20 @@ public class AgenteInformante extends Agent
     protected void afterMove()
     {
 
-        Location origen = here();
-        System.out.println("EJECUTO EL AFTERMOVE: " + origen.getName());
-        System.out.println("EL VALOR DE ACTUAL ES: " + actual);
+        Location actual = here();
+        System.out.println("EJECUTO EL AFTERMOVE EN: " + actual.getID());
 
-        if(actual != N){
-            actual++;
-            long start = System.currentTimeMillis();
+
+        if(index != N){
+            index++;
 
             free.add(Runtime.getRuntime().freeMemory());
 
-            names.add(origen.getName());
+            names.add(actual.getName());
 
-            long end = System.currentTimeMillis();
-
-            times.add(end - start);
+            OperatingSystemMXBean operatingSystemMXBean = (OperatingSystemMXBean) ManagementFactory.getOperatingSystemMXBean();
+            double cpuUsage = operatingSystemMXBean.getSystemCpuLoad();
+            cpu.add(cpuUsage * 100);
 
             try{
                 this.migrate();       
@@ -79,30 +80,35 @@ public class AgenteInformante extends Agent
             throw new Exception("SE DEBE PASAR UNA LISTA DE CONTAINERS POR ARGS.");
         }
 
-        N = args.length-1;
+        N = args.length;
         containers = new ArrayList<String>();
         names = new ArrayList<String>();
-        times = new ArrayList<Long>();
+        cpu = new ArrayList<Double>();
         free = new ArrayList<Long>();
-        actual = 0;
-        for (int i = 0; i < args.length; i++)
-            containers.add((String)args[i]);
-
+        index = 0;
+        System.out.print("LOS CONTAINERS A REVISAR SON: ");
+        for (int i = 0; i < N; i++){
+            String container = (String)args[i];
+            containers.add(container);
+            System.out.print(container + " ");
+        }
+        System.out.println();
+        containers.add(origin.getName());
         
     }
 
     private void migrate() throws Exception{
-        ContainerID destino = new ContainerID(containers.get(actual), null);
-        System.out.println("Migrando el agente a " + destino.getID());
+        ContainerID destino = new ContainerID(containers.get(index), null);
+        System.out.println("MIGRANDO EL AGENTE A " + destino.getID());
         doMove(destino);
     }
 
     private void print(){
         System.out.println("TIEMPO FINAL: " + finalTime);
-        System.out.println("ESPACIO DISPONIBLE: " + totalFree);
+        System.out.println("ESPACIO TOTAL DISPONIBLE DE TODAS LAS COMPUTADORAS: " + totalFree);
         for(int i = 0; i < N; i++){
             System.out.println("NOMBRE DE LA COMPUTADORA: " + names.get(i));
-            System.out.println("TIEMPO DE LA COMPUTADORA: " + times.get(i));
+            System.out.println("PORCENTAJE DE USO DE LA CPU: " + String.format("%.2f", cpu.get(i)));
         }
         
     }
