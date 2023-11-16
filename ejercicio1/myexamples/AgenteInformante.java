@@ -19,6 +19,7 @@ public class AgenteInformante extends Agent
      * index: INDICE UTILIZADO PARA IR RECORRIENDO 
      *        Y ALMACENANDO LA INFORMACION DE CADA CONTAINER
      */
+    private ArrayList<String> containers;
     private Location origin;
     private int N;
     private long startTime;
@@ -148,8 +149,8 @@ public class AgenteInformante extends Agent
     }
 
     private void print(){
-        System.out.println("TIEMPO FINAL: " + finalTime);
-        System.out.println("ESPACIO TOTAL DISPONIBLE DE TODAS LAS COMPUTADORAS: " + totalFree);
+        System.out.println("TIEMPO FINAL EN MS: " + finalTime);
+        System.out.println("ESPACIO TOTAL DISPONIBLE EN BYTES, DE TODAS LAS COMPUTADORAS: " + totalFree);
         for(int i = 0; i < N; i++){
             System.out.println("NOMBRE DE LA COMPUTADORA: " + names.get(i));
             System.out.println("PORCENTAJE DE USO DE LA CPU: " + String.format("%.2f", cpu.get(i)));
